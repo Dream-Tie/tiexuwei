@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/Tiexuwei-github-blue?logo=github)](https://github.com/Dream-Tie)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+我目前正在上海财经大学数学学院攻读数学博士学位
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>happrtiewei@qq.com</code>  
+<code>tie_xuwei@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**甘肃民族师范学院**, 数学与应用数学, 理学学士 (2019 – 2023)  
+• GPA: 2.52/3.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**兰州交通大学**, 数学, 理学硕士 (2023 – 2026)  
+• GPA: XX/XX (top XX%)    
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**上海财经大学**, 应用数学与计算科学, 理学博士 (在读)   
 
 #### Research Interests  
-XX, XX, XX, XX.
+数学物理反问题, 特别是偏微分方程相关的反问题.
